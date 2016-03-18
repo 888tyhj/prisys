@@ -1,0 +1,537 @@
+﻿--------[ 鲁大师 ]--------------------------------------------------------------------------------
+
+  软件:             鲁大师 5.8.15.1090
+  时间:             2015-03-17 09:07:55
+  网站:             http://www.ludashi.com
+
+--------[ 概览 ]----------------------------------------------------------------------------------
+
+  电脑型号            惠普 ProLiant DL385 G7 Rack Mount Chassis
+  操作系统            Windows 2008 R2 Server Datacenter 64位 ( DirectX 11 )
+
+  处理器              AMD Opteron(皓龙) 6212 八核 (X2)
+  主板                惠普 主板 ( ATI RD890 GFX dual slot (2x16) PCI-e Hydra part )
+  显卡                ATI ES1000  ( 64 MB / 惠普 )
+  内存                16 GB
+  主硬盘              惠普 Wom
+  光驱                惠普 DV-28S-Y DVD光驱
+  网卡                博通 BCM5709 NetXtreme II Gigabit Ethernet / 惠普
+
+--------[ 主板 ]----------------------------------------------------------------------------------
+
+  主板型号            惠普 主板
+  芯片组              ATI RD890 GFX dual slot (2x16) PCI-e Hydra part
+  BIOS                惠普 A18  /  制造日期: 05/08/2012
+
+
+--------[ 处理器 ]--------------------------------------------------------------------------------
+
+  处理器              AMD Opteron(皓龙) 6212 八核 (X2)
+  步进                OR-B2
+  速度                2.60 GHz (179 MHz x 14.5)
+  处理器数量          核心数: 8 / 线程数: 16
+  核心代号            Zambezi
+  生产工艺            32 纳米
+  插槽/插座           Socket AM3+ (uPGA-938)
+  一级数据缓存        16 KB, 4-Way, 64 byte lines
+  一级代码缓存        64 KB, 2-Way, 64 byte lines
+  二级缓存            8 x 2048 KB, 16-Way, 64 byte lines
+  三级缓存            12 MB, 128-Way, 64 byte lines
+  特征                MMX+, SSE, SSE2, SSE3, SSSE3, SSE4A, SSE4.1, SSE5, HTT, X86-64
+
+--------[ 硬盘 ]----------------------------------------------------------------------------------
+
+
+--------[ 内存 ]----------------------------------------------------------------------------------
+
+
+--------[ 显卡 ]----------------------------------------------------------------------------------
+
+  主显卡              ATI ES1000 
+  显存                64 MB
+  制造商              惠普
+  制造商              ATI
+
+--------[ 显示器 ]--------------------------------------------------------------------------------
+
+
+--------[ 其他设备 ]------------------------------------------------------------------------------
+
+  产品                惠普 DV-28S-Y DVD光驱
+  缓存/固件:          216 KB / C.4G
+
+  网卡                博通 BCM5709 NetXtreme II Gigabit Ethernet
+  制造商              惠普
+
+  网卡                博通 BCM5709 NetXtreme II Gigabit Ethernet
+  制造商              惠普
+
+  网卡                博通 BCM5709 NetXtreme II Gigabit Ethernet
+  制造商              惠普
+
+  网卡                博通 BCM5709 NetXtreme II Gigabit Ethernet
+  制造商              惠普
+
+
+  键盘                HID Keyboard Device
+  键盘                PS/2 标准键盘
+  鼠标                PS/2 兼容鼠标
+  鼠标                HID-compliant 鼠标
+
+
+--------[ PCI设备 ]-------------------------------------------------------------------------------
+
+  设备                RD890 GFX dual slot (2x16) PCI-e Hydra part
+  设备ID              5A10
+  制造商              ATI
+  制造商ID            1002
+  类别                Bridge / PCI to HOST
+  子系统制造商        ATI
+  子系统ID            5A101002h(Generic ID)
+
+  设备                RD890 PCI to PCI bridge (PCI express gpp port B)
+  设备ID              5A16
+  制造商              ATI
+  制造商ID            1002
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                RD890 PCI to PCI bridge (PCI express gpp port D)
+  设备ID              5A18
+  制造商              ATI
+  制造商ID            1002
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                RD890 PCI to PCI bridge (PCI express gpp port F)
+  设备ID              5A1A
+  制造商              ATI
+  制造商ID            1002
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                RD890 PCI to PCI bridge (External gfx1 port A)
+  设备ID              5A1D
+  制造商              ATI
+  制造商ID            1002
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                RD890 PCI to PCI bridge (NB-SB link)
+  设备ID              5A1F
+  制造商              ATI
+  制造商ID            1002
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                RD890 PCI to PCI bridge (external gfx1 port B)
+  设备ID              5A1E
+  制造商              ATI
+  制造商ID            1002
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]
+  设备ID              4390
+  制造商              ATI
+  制造商ID            1002
+  类别                Storage / IDE (ATA)
+  子系统制造商        Hewlett-Packard
+  子系统ID            176E103Ch
+
+  设备                SB7x0/SB8x0/SB9x0 USB OHCI0 Controller
+  设备ID              4397
+  制造商              ATI
+  制造商ID            1002
+  类别                Serial / USB (OHCI)
+  子系统制造商        Hewlett-Packard
+  子系统ID            176F103Ch
+
+  设备                SB700/SB800 USB OHCI1 Controller
+  设备ID              4398
+  制造商              ATI
+  制造商ID            1002
+  类别                Serial / USB (OHCI)
+  子系统制造商        Hewlett-Packard
+  子系统ID            1770103Ch
+
+  设备                SB7x0/SB8x0/SB9x0 USB EHCI Controller
+  设备ID              4396
+  制造商              ATI
+  制造商ID            1002
+  类别                Serial / USB 2.0 (EHCI)
+  子系统制造商        Hewlett-Packard
+  子系统ID            1771103Ch
+
+  设备                SB7x0/SB8x0/SB9x0 USB OHCI0 Controller
+  设备ID              4397
+  制造商              ATI
+  制造商ID            1002
+  类别                Serial / USB (OHCI)
+  子系统制造商        Hewlett-Packard
+  子系统ID            176F103Ch
+
+  设备                SB700/SB800 USB OHCI1 Controller
+  设备ID              4398
+  制造商              ATI
+  制造商ID            1002
+  类别                Serial / USB (OHCI)
+  子系统制造商        Hewlett-Packard
+  子系统ID            1770103Ch
+
+  设备                SB7x0/SB8x0/SB9x0 USB EHCI Controller
+  设备ID              4396
+  制造商              ATI
+  制造商ID            1002
+  类别                Serial / USB 2.0 (EHCI)
+  子系统制造商        Hewlett-Packard
+  子系统ID            1771103Ch
+
+  设备                SB600/SB700/SB800 SMBus Controller
+  设备ID              4385
+  制造商              ATI
+  制造商ID            1002
+  类别                Serial / SMBus Controller
+  子系统制造商        Hewlett-Packard
+  子系统ID            1772103Ch
+
+  设备                SB7x0/SB8x0/SB9x0 IDE Controller
+  设备ID              439C
+  制造商              ATI
+  制造商ID            1002
+  类别                Storage / IDE (ATA)
+  子系统制造商        Hewlett-Packard
+  子系统ID            1773103Ch
+
+  设备                SB7x0/SB8x0/SB9x0 LPC Host Controller
+  设备ID              439D
+  制造商              ATI
+  制造商ID            1002
+  类别                Bridge / PCI to ISA
+  子系统制造商        Hewlett-Packard
+  子系统ID            1775103Ch
+
+  设备                IXP SB600 PCI to PCI Bridge
+  设备ID              4384
+  制造商              ATI
+  制造商ID            1002
+  类别                Bridge / PCI to PCI (Subtractive Decode)
+  子系统ID            00000000
+
+  设备                K15 Processor Function 0
+  设备ID              1600
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 1
+  设备ID              1601
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 2
+  设备ID              1602
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Miscellaneous Control
+  设备ID              1603
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 4
+  设备ID              1604
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 5
+  设备ID              1605
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 0
+  设备ID              1600
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 1
+  设备ID              1601
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 2
+  设备ID              1602
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Miscellaneous Control
+  设备ID              1603
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 4
+  设备ID              1604
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 5
+  设备ID              1605
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 0
+  设备ID              1600
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 1
+  设备ID              1601
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 2
+  设备ID              1602
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Miscellaneous Control
+  设备ID              1603
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 4
+  设备ID              1604
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 5
+  设备ID              1605
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 0
+  设备ID              1600
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 1
+  设备ID              1601
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 2
+  设备ID              1602
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Miscellaneous Control
+  设备ID              1603
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 4
+  设备ID              1604
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                K15 Processor Function 5
+  设备ID              1605
+  制造商              AMD
+  制造商ID            1022
+  类别                Bridge / PCI to HOST
+  子系统ID            00000000
+
+  设备                ES1000 (RN50)
+  设备ID              515E
+  制造商              ATI
+  制造商ID            1002
+  类别                Display / VGA
+  子系统制造商        Hewlett-Packard
+  子系统ID            31FB103Ch
+
+  设备                iLO3 Slave instrumentation and System support
+  设备ID              3306
+  制造商              Hewlett-Packard
+  制造商ID            103C
+  类别                System / Other
+  子系统制造商        Hewlett-Packard
+  子系统ID            3309103Ch
+
+  设备                iLO3 Management Processor Support and Messaging
+  设备ID              3307
+  制造商              Hewlett-Packard
+  制造商ID            103C
+  类别                System / Other
+  子系统制造商        Hewlett-Packard
+  子系统ID            3309103Ch
+
+  设备                Proliant iLO2 virtual USB controller
+  设备ID              3300
+  制造商              Hewlett-Packard
+  制造商ID            103C
+  类别                Serial / USB (UHCI)
+  子系统制造商        Hewlett-Packard
+  子系统ID            3309103Ch
+
+  设备                Smart Array Controller
+  设备ID              323A
+  制造商              Hewlett-Packard
+  制造商ID            103C
+  类别                Storage / RAID
+  子系统制造商        Hewlett-Packard
+  子系统ID            3245103Ch
+
+  设备                BCM5709 NetXtreme II Gigabit Ethernet
+  设备ID              1639
+  制造商              Broadcom
+  制造商ID            14E4
+  类别                Network / Ethernet
+  子系统制造商        Hewlett-Packard
+  子系统ID            7055103Ch
+
+  设备                BCM5709 NetXtreme II Gigabit Ethernet
+  设备ID              1639
+  制造商              Broadcom
+  制造商ID            14E4
+  类别                Network / Ethernet
+  子系统制造商        Hewlett-Packard
+  子系统ID            7055103Ch
+
+  设备                BCM5709 NetXtreme II Gigabit Ethernet
+  设备ID              1639
+  制造商              Broadcom
+  制造商ID            14E4
+  类别                Network / Ethernet
+  子系统制造商        Hewlett-Packard
+  子系统ID            7055103Ch
+
+  设备                BCM5709 NetXtreme II Gigabit Ethernet
+  设备ID              1639
+  制造商              Broadcom
+  制造商ID            14E4
+  类别                Network / Ethernet
+  子系统制造商        Hewlett-Packard
+  子系统ID            7055103Ch
+
+  设备                PEX 8616 16-lane, 4-Port PCI Express Gen 2 (5.0 GT/s) Switch
+  设备ID              8616
+  制造商              PLX Technology
+  制造商ID            10B5
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                PEX 8616 16-lane, 4-Port PCI Express Gen 2 (5.0 GT/s) Switch
+  设备ID              8616
+  制造商              PLX Technology
+  制造商ID            10B5
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                PEX 8616 16-lane, 4-Port PCI Express Gen 2 (5.0 GT/s) Switch
+  设备ID              8616
+  制造商              PLX Technology
+  制造商ID            10B5
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                PEX 8616 16-lane, 4-Port PCI Express Gen 2 (5.0 GT/s) Switch
+  设备ID              8616
+  制造商              PLX Technology
+  制造商ID            10B5
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                425/825 4Gbps/8Gbps PCIe dual port FC HBA
+  设备ID              0013
+  制造商              Brocade Communications Systems
+  制造商ID            1657
+  类别                Serial / Fibre Channel
+  子系统制造商        Brocade Communications Systems
+  子系统ID            00141657h 425/825 4Gbps/8Gbps PCIe dual port FC HBA
+
+  设备                425/825 4Gbps/8Gbps PCIe dual port FC HBA
+  设备ID              0013
+  制造商              Brocade Communications Systems
+  制造商ID            1657
+  类别                Serial / Fibre Channel
+  子系统制造商        Brocade Communications Systems
+  子系统ID            00141657h 425/825 4Gbps/8Gbps PCIe dual port FC HBA
+
+  设备                uPD720400 PCI Express - PCI/PCI-X Bridge
+  设备ID              0125
+  制造商              NEC
+  制造商ID            1033
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                uPD720400 PCI Express - PCI/PCI-X Bridge
+  设备ID              0125
+  制造商              NEC
+  制造商ID            1033
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+--------[ USB设备 ]-------------------------------------------------------------------------------
+
+  制造商ID            04B4
+  产品ID              5112
+  类别                0 / 0 / 0
+  设备                DeCard-TECH HC Ver10A
+  Serial              ?
+  版本                USB 2.0
+
+  制造商ID            03F0
+  产品ID              7029
+  类别                0 / 0 / 0
+  设备                HP Virtual Keyboard
+  Serial              ?
+  版本                USB 1.1
+
+--------[ 传感器 ]--------------------------------------------------------------------------------
+
+
